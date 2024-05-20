@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3888a785-b636-4de0-bd4c-a39f28979b66" name="Changes" comment="gameusp">
+      <change afterPath="$PROJECT_DIR$/gameus/.idea/res/GAMEUS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameus/.idea/res/gameus1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameus/.idea/res/gameus2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameus/.idea/res/gameusheader.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameus/.idea/res/pfp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameus/.idea/res/pfp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameus/.idea/res/pfp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameus/.idea/res/pfp4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameus/.idea/res/pfp5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/amistades.html.html" beforeDir="false" afterPath="$PROJECT_DIR$/exportToHTML/amistades.html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/buscar.html.html" beforeDir="false" afterPath="$PROJECT_DIR$/exportToHTML/buscar.html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/comunidad.html.html" beforeDir="false" afterPath="$PROJECT_DIR$/exportToHTML/comunidad.html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/dm.html.html" beforeDir="false" afterPath="$PROJECT_DIR$/exportToHTML/dm.html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exportToHTML/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/index.html.html" beforeDir="false" afterPath="$PROJECT_DIR$/exportToHTML/index.html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/informacion.html.html" beforeDir="false" afterPath="$PROJECT_DIR$/exportToHTML/informacion.html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/interes.html.html" beforeDir="false" afterPath="$PROJECT_DIR$/exportToHTML/interes.html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/perfil.html.html" beforeDir="false" afterPath="$PROJECT_DIR$/exportToHTML/perfil.html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/scryptflecha.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/exportToHTML/scryptflecha.js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/style.css.html" beforeDir="false" afterPath="$PROJECT_DIR$/exportToHTML/style.css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameus/amistades.html" beforeDir="false" afterPath="$PROJECT_DIR$/gameus/amistades.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameus/buscar.html" beforeDir="false" afterPath="$PROJECT_DIR$/gameus/buscar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameus/comunidad.html" beforeDir="false" afterPath="$PROJECT_DIR$/gameus/comunidad.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameus/dm.html" beforeDir="false" afterPath="$PROJECT_DIR$/gameus/dm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameus/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gameus/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameus/informacion.html" beforeDir="false" afterPath="$PROJECT_DIR$/gameus/informacion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameus/interes.html" beforeDir="false" afterPath="$PROJECT_DIR$/gameus/interes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameus/perfil.html" beforeDir="false" afterPath="$PROJECT_DIR$/gameus/perfil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameus/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/gameus/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/GAMEUS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/gameus1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/gameus2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/gameusheader.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/pfp1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/pfp2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/pfp3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/pfp4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/pfp5.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gameus" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2gkQor6K2b4I5LtqgdInsRUhh6T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3888a785-b636-4de0-bd4c-a39f28979b66" name="Changes" comment="" />
+      <created>1716239273645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716239273645</updated>
+      <workItem from="1716239274685" duration="739000" />
+    </task>
+    <task id="LOCAL-00001" summary="gameusp">
+      <option name="closed" value="true" />
+      <created>1716239334444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716239334444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gameusp" />
+    <option name="LAST_COMMIT_MESSAGE" value="gameusp" />
+  </component>
+</project>
